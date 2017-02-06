@@ -1,5 +1,5 @@
 projectKey=my:project
 serverUrl=http://onoffline.ru:9000
 dashboardUrl=http://onoffline.ru:9000/dashboard/index/my:project
-ceTaskId=AVoJ1233-w-go4Aiu6Is
-ceTaskUrl=http://onoffline.ru:9000/api/ce/task?id=AVoJ1233-w-go4Aiu6Is
+ceTaskId=AVoTKFzIDllJnsVPNVUU
+ceTaskUrl=http://onoffline.ru:9000/api/ce/task?id=AVoTKFzIDllJnsVPNVUU
